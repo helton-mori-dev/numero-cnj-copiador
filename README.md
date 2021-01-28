@@ -1,2 +1,2 @@
 # numero-cnj-copiador
-Extensão google para auxiliar no copy e paste de números CNJ, parte dele,  ou tirar caracteres
+Extensão para Google Chrome para auxiliar no copy e paste de números CNJ, parte dele, e tirar pontos e hífen
