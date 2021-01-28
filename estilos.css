@@ -5,3 +5,18 @@ h1 {
 p {
     border: 1px solid #666;
 }
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.source {
+    line-height: 1;
+    height: 30px;
+}
+
+.target {
+    box-shadow: 0 0 0 1px #ccc;
+    margin-bottom: 20px;
+}

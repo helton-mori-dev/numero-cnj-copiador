@@ -4,6 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
     let button = document.querySelector('#button');
     let target = document.querySelector('.target');
     button.addEventListener('click', () => {
-        target.innerHTML = source.innerHTML
+        let textSource = source.value;
+        target.innerHTML  = textSource.replace(/\D+/g,'')
     });
 })
